@@ -84,19 +84,19 @@ Common Words\
 ![similar_word_common](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/similar_word_common.jpg)
 
 
-Total Words
+Total Words\
 ![unique_word_total](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/unique_word_total.jpg)
 
 ![similar_word_total](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/similar_word_total.jpg)
 
 
-Total Common
+Total Common\
 ![unique_common_total](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/unique_common_total.jpg)
 
 ![similar_common_total](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/similar_common_total.jpg)
 
 
-Words Shared
+Words Shared\
 ![unique_word_share](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/unique_word_share.jpg)
 
 ![similar_word_share](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/similar_word_share.jpg)
