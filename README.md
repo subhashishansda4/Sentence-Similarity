@@ -7,19 +7,19 @@ Dataset : [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs)
 
 
 ### Layouts
-![layout_1](https://github.com/subhashishansda4/Sentence-Similarity/blob/misc/layout_1.jpg)
+![layout_1](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/misc/layout_1.jpg)
 
-![layout_2](https://github.com/subhashishansda4/Sentence-Similarity/blob/misc/layout_2.jpg)
+![layout_2](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/misc/layout_2.jpg)
 
-![layout_3](https://github.com/subhashishansda4/Sentence-Similarity/blob/misc/layout_3.jpg)
+![layout_3](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/misc/layout_3.jpg)
 
 ## Machine Learning
 ### Raw Data
 Checking **missing** and/or **duplicate** values and removing them\
-![similar_vs_unique](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/similar_vs_unique.jpg)
+![similar_vs_unique](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/similar_vs_unique.jpg)
 
 Historgram showing how many question were getting repeated\
-![repeat_number](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/repeat_number.jpg)
+![repeat_number](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/repeat_number.jpg)
 
 ### Cleaning & Pre-processing
 Used **spacy** fr lemmatization and tokenization of words for a given text
@@ -67,50 +67,50 @@ I create word embeddings for every word using Word2Vec and feed them into the Tf
 ### EDA
 #### Distplots
 Number of characters\
-![q1_len](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/q1_len.jpg)
+![q1_len](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/q1_len.jpg)
 
-![q2_len](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/q2_len.jpg)
+![q2_len](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/q2_len.jpg)
 
 
 Number of Words\
-![q1_num_words](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/q1_num_words.jpg)
+![q1_num_words](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/q1_num_words.jpg)
 
-![q2_num_words](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/q2_num_words.jpg)
+![q2_num_words](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/q2_num_words.jpg)
 
 
 Common Words\
-![unique_word_common](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/unique_word_common.jpg)
+![unique_word_common](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/unique_word_common.jpg)
 
-![similar_word_common](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/similar_word_common.jpg)
+![similar_word_common](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/similar_word_common.jpg)
 
 
 Total Words
-![unique_word_total](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/unique_word_total.jpg)
+![unique_word_total](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/unique_word_total.jpg)
 
-![similar_word_total](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/similar_word_total.jpg)
+![similar_word_total](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/similar_word_total.jpg)
 
 
 Total Common
-![unique_common_total](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/unique_common_total.jpg)
+![unique_common_total](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/unique_common_total.jpg)
 
-![similar_common_total](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/similar_common_total.jpg)
+![similar_common_total](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/similar_common_total.jpg)
 
 
 Words Shared
-![unique_word_share](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/unique_word_share.jpg)
+![unique_word_share](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/unique_word_share.jpg)
 
-![similar_word_share](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/similar_word_share.jpg)
+![similar_word_share](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/similar_word_share.jpg)
 
 #### Pairplots
-![token_min](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/token_min.jpg)
+![token_min](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/token_min.jpg)
 
-![token_max](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/token_max.jpg)
+![token_max](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/token_max.jpg)
 
-![word_order](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/word_order.jpg)
+![word_order](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/word_order.jpg)
 
-![word_stat](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/word_stat.jpg)
+![word_stat](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/word_stat.jpg)
 
-![fuzz](https://github.com/subhashishansda4/Sentence-Similarity/blob/plots/fuzz.jpg)
+![fuzz](https://github.com/subhashishansda4/Sentence-Similarity/blob/main/plots/fuzz.jpg)
 
 ### t-SNE
 Dimensionality reduction for 15 features to 3 features\
