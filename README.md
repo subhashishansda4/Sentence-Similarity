@@ -116,6 +116,7 @@ Words Shared\
 Dimensionality reduction for 15 features to 3 features\
 `sample_size = 2000`
 
+https://github.com/subhashishansda4/Sentence-Similarity/assets/84849423/77872622-b17d-41d0-a22e-ccb16109fa67
 
 ### Model Evaluation
 Used **KFold** for model evaluation from 6 different classification models\
